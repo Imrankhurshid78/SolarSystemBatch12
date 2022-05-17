@@ -10,4 +10,6 @@ public class Main {
         FactorX.Planet = "2";
         FactorX.Star = "10000";
     }
+    SolarSystem FactorX = new SolarSystem();
+    Xfact.color=greem
 }
